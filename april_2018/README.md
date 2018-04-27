@@ -1,6 +1,8 @@
 # 2018 Retreat Hardware Hackathon
 **Goal:** Develop and spread hardware skills throughout the Very delivery team.
 
+**Check out the [instructions](./instructions)**
+
 ## Projects
 * **[Plant Minder](https://github.com/verypossible/plant_minder)** -- Use the
 Arduino-compatible ESP8266 to measure soil moisture and send the data to a web
